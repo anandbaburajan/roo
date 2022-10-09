@@ -1,0 +1,4 @@
+/build/
+/roo/__pycache__/
+/roo.egg-info/
+.DS_Store
