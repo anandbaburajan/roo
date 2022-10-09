@@ -44,8 +44,6 @@ def check(args):
         if not lines:
             print("List is empty")
 
-        print("")
-
         for i, line in enumerate(lines):
             print("[{0}]: {1}".format(i + 1, line.strip()))
     except FileNotFoundError:

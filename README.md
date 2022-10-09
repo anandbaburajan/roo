@@ -25,13 +25,11 @@ $ roo a today "Clean the house"
 $ roo a today "Take Roo for a walk"
 
 $ roo c today
-
 [1]: Clean the house
 [2]: Take Roo for a walk
 
 $ roo d today 2
 
 $ roo c today
-
 [1]: Clean the house
 ```
