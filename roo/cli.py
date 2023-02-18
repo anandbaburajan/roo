@@ -17,7 +17,7 @@ def parse_args():
     commands = parser.add_subparsers(dest="command")
     commands.required = True
 
-    check_parser = commands.add_parser("c", help="Check a list")
+    check_parser = commands.add_parser("v", help="View a list")
     check_parser.set_defaults(func=check)
     check_parser.add_argument("listname")
 
