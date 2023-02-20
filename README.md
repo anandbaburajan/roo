@@ -1,6 +1,6 @@
 # roo
 
-Simple CLI to-do app
+Simple CLI to-do list app
 
 ## Installation
 
